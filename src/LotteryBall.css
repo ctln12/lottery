@@ -1,0 +1,8 @@
+.LotteryBall {
+  background-color:#ad0d0d;
+  width: fit-content;
+  padding: .9rem 1.2rem;
+  border-radius: 50%;
+  font-weight: bold;
+  color: white;
+}
