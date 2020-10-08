@@ -1,16 +1,12 @@
 import React, { Component } from 'react';
 import './App.css';
-import LotteryBall from './LotteryBall';
+import Lottery from './Lottery';
 
 class App extends Component {
-  static defaultProps = {
-    num: 3
-  }
   render() {
-    const {num} = this.props;
     return (
       <div className="App">
-        <LotteryBall num={num}/>
+        <Lottery/>
       </div>
     );
   }
