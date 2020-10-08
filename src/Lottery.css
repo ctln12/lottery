@@ -2,3 +2,12 @@
   display: flex;
   justify-content: center;
 }
+
+.Lottery button {
+  background-color: darkblue;
+  border: 1px solid darkblue;
+  color: white;
+  font-size: 1rem;
+  border-radius: 10px;
+  padding: .4rem .7rem;
+}
