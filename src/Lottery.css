@@ -1,3 +1,11 @@
+.Lottery {
+  margin: 1em auto auto;
+  padding: 1em 0 2em 0;
+  width: 40em;
+  border: 1px solid gray;
+  border-radius: 10px;
+}
+
 .Lottery-balls {
   display: flex;
   justify-content: center;
